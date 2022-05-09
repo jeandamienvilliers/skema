@@ -1,5 +1,9 @@
 ---
 
-# Example Binder with requirements.txt
+# Launch Jupyter Notebook on Binder
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/binder-project/example-requirements)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jeandamienvilliers/skema/HEAD)
+
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/jeandamienvilliers/skema/HEAD
